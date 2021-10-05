@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "469156052181",
+    "project_id": "app-ipet",
+    "storage_bucket": "app-ipet.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469156052181:android:788821cf426c65f01fb65c",
+        "android_client_info": {
+          "package_name": "br.com.ipet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469156052181-v0ueu8qt52cnt3e25cke24ehdeba4ks4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLNzIpGn8fs_21qjxi_vYA1MnE-gvfyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469156052181-v0ueu8qt52cnt3e25cke24ehdeba4ks4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:469156052181:android:4a3fa41f56edcb6e1fb65c",
+        "android_client_info": {
+          "package_name": "com.ipet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "469156052181-v0ueu8qt52cnt3e25cke24ehdeba4ks4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMLNzIpGn8fs_21qjxi_vYA1MnE-gvfyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "469156052181-v0ueu8qt52cnt3e25cke24ehdeba4ks4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

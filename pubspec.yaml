@@ -1,0 +1,43 @@
+name: ipet
+description: A new Flutter project.
+publish_to: "none"
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  brasil_fields: ^1.2.0
+  cached_network_image: ^3.1.0
+  cloud_firestore: ^2.5.3
+  cupertino_icons: ^1.0.2
+  file_picker: ^4.1.1
+  firebase_auth: ^3.1.1
+  firebase_core: ^1.6.0
+  firebase_storage: ^10.0.4
+  flutter:
+    sdk: flutter
+  google_sign_in: ^5.1.0
+  interactiveviewer_gallery: ^0.6.0
+  url_launcher: ^6.0.10
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/
+    - assets/icons/
+
+  fonts:
+    - family: Grobold
+      fonts:
+        - asset: assets/fonts/grobold.ttf
+
+    - family: POPPINS-REGULAR
+      fonts:
+        - asset: assets/fonts/POPPINS-REGULAR.OTF
